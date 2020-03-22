@@ -1,0 +1,142 @@
+.b-page
+{
+    width:100%;
+    margin:0;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:12px;
+}
+.b-page__head-white
+{
+    height:70px;   
+    width:100%;
+    display: inline-block;
+    margin: 0;
+}
+.b-page__head-blue
+{
+    height:70px;   
+    width:100%;
+    display: inline-block;
+    background-color: #6087bf;
+    margin: 0;
+}
+.b-head__menu 
+{
+    height:70px;  
+    margin: 0 auto;
+    width: 900px;
+}
+.b-head__link
+{
+    width: 50px;
+    height: 50px;
+    margin: 10px 0 10px 10px;
+    float: left;
+}
+.b-link__img
+{
+    width: 50px;
+    height: 50px;
+}
+.b-menu__element
+{
+    width: 200px;
+    float: left;
+    text-align: center;
+    height: 70px;
+}
+.b-element__text
+{
+    font-size: 20px;
+    color: #ffffff;
+    font-weight: bold;
+}
+.b-page__content
+{
+    width: 100%;
+}
+.b-content__left-menu
+{
+    float: left;
+}
+.b-left-menu__header
+{
+    font-size: 20px;
+    color: #6087bf;
+    font-weight: bold;
+    letter-spacing: 5px;
+    margin: 20px 0 0 20px;
+}
+.b-left-menu__list
+{
+    list-style-type: none;
+}
+.b-list__element
+{
+    color: #73a1ad;
+    line-height: 35px;
+    font-size: 20px;
+}
+.b-content__center
+{
+    width: 900px;
+    margin: 0 auto;
+}
+.b-center__top-img
+{
+    margin-top: 20px;
+}
+.b-top-img
+{
+    width: 900px;
+    height: 450px;
+    margin: 0;
+}
+.b-center__area
+{
+    width: 900px;
+}
+.b-center__post
+{
+    width: 445px;
+    margin-top: 10px;
+    display: inline-block;
+    margin-right: 3px;
+}
+.b-post__img
+{
+    width: 445px;
+    height: 260px;
+}
+.b-post__text
+{
+    width: 441px;
+    height: 100px;
+    border: 2px solid #6087bf;
+    border-top: none;
+    margin: 0;
+    padding-top: 10px;
+}
+.b-text
+{
+    margin: 0px 60px 0 60px;
+    font-size: 15px;
+    color: #73a1ad;
+}
+.b-text__head
+{
+    text-align: center;
+    letter-spacing: 5px;
+    color: #6087bf;
+    font-size: 20px;
+    margin: 0 0 5px 0;
+    font-weight: bold;
+}
+.b-page__footer
+{
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    height: 70px;
+    background: #6087bf;
+}
